@@ -1596,9 +1596,9 @@ PODS:
     - React-logger (= 0.78.0)
     - React-perflogger (= 0.78.0)
     - React-utils (= 0.78.0)
-  - RevenueCat (5.27.1)
-  - RevenueCatUI (5.27.1):
-    - RevenueCat (= 5.27.1)
+  - RevenueCat (5.28.0)
+  - RevenueCatUI (5.28.0):
+    - RevenueCat (= 5.28.0)
   - RNPaywalls (8.11.2):
     - PurchasesHybridCommonUI (= 13.35.0)
     - React-Core
